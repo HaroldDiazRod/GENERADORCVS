@@ -253,7 +253,7 @@ def index():
         </script>
     </head>
     <body>
-        <h1>Generador de CV</h1>
+        <h1>Generador de CV AIESEC Trujillo 24.2</h1>
         <form action="/generate-cv" method="post" enctype="multipart/form-data">
             <label for="name">Nombre y Apellido:</label>
             <input type="text" id="name" name="name" required><br><br>
